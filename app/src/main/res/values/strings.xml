@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyCustomViewGroup</string>
+    <string name="strTopLine">Top line</string>
+    <string name="strBottomLine">Bottom line</string>
+</resources>
